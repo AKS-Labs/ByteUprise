@@ -1,0 +1,40 @@
+const appname = "ByteUprise";
+const appversion = "Version 1.0.0";
+const credits = "AKS_Labs";
+const email = "Email";
+const emailHint = "abc@gmail.com";
+const password = " Password ";
+const passwordHint = "********";
+const retypePassword = "Retype Password";
+const name = "Name";
+const nameHint = " Pratik Jaypurkar ";
+const forgetPass = "Forget Password";
+const login = "Log In";
+const signup = " Sign Up ";
+const createNewAccount = " or, create a new account ";
+const loginWith = " Log In With ";
+const privacyPolicy = " Privacy Policy ";
+const termsAndCond = " Tearms and Conditions ";
+const alreadyHaveAccount = " already have an account? ";
+
+const home = "Home",
+    courses = "Courses",
+    explore = "Explore",
+    profile = "Profile";
+
+const searchanything = "Search anything",
+    internship = "Internship",
+    // courses = "Courses",
+    topcourses = "Top Courses",
+    brand = "Domain",
+    reviews = "Reviews",
+    topcategories = "topcategories",
+    featuredcategories = " Our Internship";
+
+const webDevelopement = "Web Developement",
+    androidDevelopement = "Android Developement",
+    softwareDevelopement = " Software Developement",
+    cyberSecurity = "Cyber Security";
+const machineLearning = "Machine Learning",
+    dataScience = "Data Science",
+    recentProjects = "Recent Projects";
