@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+completely free for everyone. Its build-in Flutter Dart.
 
-This project is a starting point for a Flutter application.
+<a href="https://www.buymeacoffee.com/mitesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
-A few resources to get you started if this is your first Flutter project:
+![Image](byteuprise/assets/introduction_animation/introduction_animation.png)
+![Image](byteuprise/assets/hotel/hotel_booking.png)
+![Image](byteuprise/assets/fitness_app/fitness_app.png)
+![Image](assets/custom_drawer.png)
+![Image](byteuprise/assets/design_course/design_course.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Some Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/introduction_animation.gif" height="300em"><img src="assets/hotel_booking.gif" height="300em"><img src="assets/custom_drawer.gif" height="300em"><img src="assets/fitness_app.gif" height="300em" /> <img src="assets/design_course.gif" height="300em" />
